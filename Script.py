@@ -93,7 +93,7 @@ if __name__ == "__main__":
     open_whatsapp()
 
     # Specify the name of the group you want to add contacts to
-    group_name = 'Hire me internship interview'  # Update with your actual group name
+    group_name = 'group name '  # Update with your actual group name
 
     # Add contacts to the specified WhatsApp group
     add_contacts_to_group(contacts, group_name)
