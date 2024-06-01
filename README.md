@@ -14,7 +14,7 @@
 
 ## 📝 Usage 📝
 
-- install chromedriver from Chrome for Testing[https://googlechromelabs.github.io/chrome-for-testing/] and set it as path as well
+- install chromedriver from [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/)] and set it as path as well
 - if you want to use the same tab multiple times use the following command
 ```
 chrome.exe -remote-debugging-port=9014 --user-data-dir="D:\Selenium\Chrome_Test_Profile"
