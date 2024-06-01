@@ -1,10 +1,5 @@
 # AutoAdder contacts from excel / csv to whatsapp group
 
-## 🛑🛑 WARNING 🛑🛑
-
-- This script is just the tool for educational and testing purposes.
-- Author of this script does not accept responsibility for banned accounts or penalties of any kind caused by the use of this tool.
-- I would like to point out that using this script for extensive spamming of messages on whatsapp is not recommended and it is violation of the TOS of whatsapp.
 
 # 📝 Prerequisites 📝
 
@@ -31,6 +26,12 @@ chrome.exe -remote-debugging-port=9014 --user-data-dir="D:\Selenium\Chrome_Test_
 ## 📝 License 📝
 
 - This script is available under [MIT License](/LICENSE.md)
+- 
+## 🛑🛑 WARNING 🛑🛑
+
+- This script is just the tool for educational and testing purposes.
+- Author of this script does not accept responsibility for banned accounts or penalties of any kind caused by the use of this tool.
+- I would like to point out that using this script for extensive spamming of messages on whatsapp is not recommended and it is violation of the TOS of whatsapp.
 
 
 ### If this script helped you, please consider giving it a star 🌟.
