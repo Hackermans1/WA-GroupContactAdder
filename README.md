@@ -1,4 +1,4 @@
-# WhatsApp Web Spammer
+# AutoAdder contacts from excel / csv to whatsapp group
 
 ## 🛑🛑 WARNING 🛑🛑
 
