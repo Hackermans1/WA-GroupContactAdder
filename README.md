@@ -1,4 +1,4 @@
-# AutoAdder contacts from excel / csv to whatsapp group
+# Add contacts in bulk from excel / csv to whatsapp group
 
 
 # 📝 Prerequisites 📝
